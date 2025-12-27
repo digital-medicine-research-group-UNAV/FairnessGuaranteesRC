@@ -1,2 +1,1 @@
-# FairnessGuaranteesRC
-Code for "Bias Mitigation with Fairness Guarantees using Risk Control"
+Code for "Post-processing Bias Mitigation with Fairness Guarantees using Risk Control"
